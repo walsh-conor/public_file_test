@@ -1,0 +1,11 @@
+.lrn_qr.lrn_association .lrn_possibilityList .lrn_draggable {
+  background-color: red;
+}
+
+.lrn_assoc_question {
+  width: 100px;
+}
+
+.lrn_response_container {
+  width: 300px;
+}
